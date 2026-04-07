@@ -29,3 +29,9 @@ The program performs the following steps:
 1. Install the required libraries (if you don't have them already installed):
    ```bash
    pip install pandas scipy numpy matplotlib ```
+
+## Running instructions
+
+1. Run it in the terminal 
+    ```bash
+    python3 teliki_ergasia1.py```
